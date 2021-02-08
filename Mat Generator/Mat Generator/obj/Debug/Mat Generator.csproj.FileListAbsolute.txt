@@ -1,0 +1,7 @@
+C:\Users\feli03002\source\repos\MatVecka\Mat Generator\Mat Generator\bin\Debug\Mat Generator.exe.config
+C:\Users\feli03002\source\repos\MatVecka\Mat Generator\Mat Generator\bin\Debug\Mat Generator.exe
+C:\Users\feli03002\source\repos\MatVecka\Mat Generator\Mat Generator\bin\Debug\Mat Generator.pdb
+C:\Users\feli03002\source\repos\MatVecka\Mat Generator\Mat Generator\obj\Debug\Mat Generator.csprojAssemblyReference.cache
+C:\Users\feli03002\source\repos\MatVecka\Mat Generator\Mat Generator\obj\Debug\Mat Generator.csproj.CoreCompileInputs.cache
+C:\Users\feli03002\source\repos\MatVecka\Mat Generator\Mat Generator\obj\Debug\Mat Generator.exe
+C:\Users\feli03002\source\repos\MatVecka\Mat Generator\Mat Generator\obj\Debug\Mat Generator.pdb

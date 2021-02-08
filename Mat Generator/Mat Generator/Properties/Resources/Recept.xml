@@ -1,0 +1,12 @@
+﻿<mat>
+	<recept id="001">
+		<namn>Curry</namn>
+		<ing>curry_krydda</ing>
+		<steg>1 2 3 4</steg>
+	</recept>
+	<recept id ="002">
+		<namn>Morotskaka</namn>
+		<ing>morort</ing>
+		<steg>1 2</steg>
+	</recept>
+</mat>
